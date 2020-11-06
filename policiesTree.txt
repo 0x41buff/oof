@@ -1,0 +1,582 @@
+Folder PATH listing
+Volume serial number is 18CD-DBF5
+C:\WINDOWS\SYSTEM32\GROUPPOLICY\DATASTORE\0\SYSVOL\BHCORP.AD\POLICIES
++---{078C8B7D-9FA8-417A-BCE5-856CDD5AA460}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{0DB94A41-80E8-4CA1-A353-5BDA025AAD5F}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   Registry.pol
+|       |   
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{152DFE57-30BB-4659-A344-ACC94171E745}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   \---Registry
+|       |           Registry.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{15834B1F-0930-4C0C-BB20-EF009F0A124C}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{253F9C7F-E430-4D73-840D-0900B535C205}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---EnvironmentVariables
+|       |   |       EnvironmentVariables.xml
+|       |   |       
+|       |   +---Files
+|       |   |       Files.xml
+|       |   |       
+|       |   +---Registry
+|       |   |       Registry.xml
+|       |   |       
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{28A6E344-3647-45DD-96DF-9163E352ED7F}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---Registry
+|       |   |       Registry.xml
+|       |   |       
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{2DF7E36D-BF3C-4684-920A-3900F04A3EA7}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       \---Preferences
+|           +---Files
+|           \---ScheduledTasks
++---{31B2F340-016D-11D2-945F-00C04FB984F9}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{39CEFBC2-9F75-4659-9DB2-E5E18AE1E0F5}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{405F39DE-B8D0-4D6B-AF54-67EF4AFA3B9E}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   \---EnvironmentVariables
+|       |           EnvironmentVariables.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{4E949851-7295-4A68-A412-AF2ADCF7983C}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{542EC71B-A5C0-4C07-9540-0AA3E7AF93AF}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       +---Audit
+|       |       |       audit.csv
+|       |       |       
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---EnvironmentVariables
+|       |   |       EnvironmentVariables.xml
+|       |   |       
+|       |   +---Registry
+|       |   |       Registry.xml
+|       |   |       
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{56AAA498-57E3-4EAE-9423-B8D8247DEAB5}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{56FD1F73-94BD-4D66-AB52-152AC70F6939}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{581ACD4E-004B-45F0-AED7-54C7B900C04C}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Preferences
+|       |   \---Groups
+|       |           Groups.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{62255D92-D666-4FF8-8087-2037B1DF00EF}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   Registry.pol
+|       |   
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{65B1905B-8291-457B-879E-A086A0CDC4E9}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   \---Registry
+|       |           Registry.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{68193A4B-5069-4651-A0ED-B08C8E39ACCC}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{71CEF30B-528C-4C9F-9B4C-B037DB2998B6}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   Registry.pol
+|       |   
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{74AAD1BB-FAE5-48D2-A1CE-A356CB9410F2}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Citrix
+|       |   \---GroupPolicy
+|       |           Policies.gpf
+|       |           
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   \---Groups
+|       |           Groups.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{790AFF8B-E568-4FF1-8AFA-3F7D02099D31}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Citrix
+|       |   \---GroupPolicy
+|       |           Policies.gpf
+|       |           
+|       \---Preferences
+|           +---Registry
+|           |       Registry.xml
+|           |       
+|           \---Services
++---{9ACCC7BD-415F-419A-A507-A9A9E504A3AB}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       +---Audit
+|       |       |       audit.csv
+|       |       |       
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---Groups
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{A6DA4CCE-A90E-40CE-B6B9-BB6BBC11E51C}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   Registry.tmp
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       +---Audit
+|       |       |       audit.csv
+|       |       |       
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---Groups
+|       |   +---NetworkShares
+|       |   |       NetworkShares.xml
+|       |   |       
+|       |   +---Registry
+|       |   |       Registry.xml
+|       |   |       
+|       |   +---Services
+|       |   |       Services.xml
+|       |   |       
+|       |   \---Shortcuts
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{B259F1A5-B2BE-4D99-8EC4-315A058FB21D}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{B8D6E609-0B15-43C0-9313-D5CE74D6ECAB}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{BE37A048-84BE-441F-AB26-1681A962BCC2}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   registry.pol
+|       |   
+|       +---Applications
+|       +---microsoft
+|       |   \---windows nt
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---Groups
+|       |   |       Groups.xml
+|       |   |       
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{C75D9A16-E6EE-4C1C-8653-354374C928FA}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{C7E35D19-DCB1-4602-B775-C4658917FA79}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       +---Preferences
+|       |   +---PowerOptions
+|       |   \---Registry
+|       |           Registry.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{CDFE0217-EA24-4387-8C90-679F637E77A6}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       \---Preferences
+|           \---Registry
++---{CFEC2BDC-88BE-4898-A408-520C3C934D5C}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---Registry
+|       |   \---Services
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{D0B1B51E-FD43-4C19-8A4D-EE2D699B9EEA}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{D358CED5-E886-4DF3-8473-B26B90626111}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       +---Applications
+|       +---Preferences
+|       |   \---Registry
+|       |           Registry.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{D6211BD8-BED0-492D-A85F-3B6F2E796738}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|           comment.cmtx
+|           Registry.pol
+|           
++---{D665FCCF-EE1A-41C2-B1E2-7311DE46A7FB}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Citrix
+|       |   \---GroupPolicy
+|       |           Policies.gpf
+|       |           
+|       \---Preferences
+|           +---Registry
+|           |       Registry.xml
+|           |       
+|           \---Services
++---{EAE2B2CF-200A-426F-AC98-0438702A94B2}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   Registry.pol
+|       |   
+|       \---Preferences
+|           +---Registry
+|           |       Registry.xml
+|           |       
+|           \---Services
+|                   Services.xml
+|                   
++---{EDAC9B0E-54C2-4787-8795-30B48A39FDCE}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   Registry.pol
+|       |   
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
++---{F45CDA78-006C-435D-B17E-14EF817850A7}
+|   |   gpt.ini
+|   |   
+|   \---Machine
+|       |   comment.cmtx
+|       |   Registry.pol
+|       |   
+|       +---Applications
+|       +---Microsoft
+|       |   \---Windows NT
+|       |       \---SecEdit
+|       |               GptTmpl.inf
+|       |               
+|       +---Preferences
+|       |   +---Registry
+|       |   \---Services
+|       |           Services.xml
+|       |           
+|       \---Scripts
+|           +---Shutdown
+|           \---Startup
+\---{F70C4A5F-D549-44DF-BB4D-B0A42152408B}
+    |   gpt.ini
+    |   
+    \---Machine
+        |   comment.cmtx
+        |   Registry.pol
+        |   
+        \---Scripts
+            +---Shutdown
+            \---Startup
